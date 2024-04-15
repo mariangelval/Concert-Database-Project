@@ -1,5 +1,5 @@
 ## DER
-```mermarid
+```mermaid
     erDiagram
     Concert{
         SMALLINTUNSIGNED idConcert PK
