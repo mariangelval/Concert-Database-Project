@@ -40,7 +40,7 @@
         SMALLINTUNSIGNED idClient FK
         SMALLINTUNSIGNED idTicket
         DATETIME purchaseDate
-        byte ticketAmount
+        byte quantityPurchased
         DECIMAL totalPrice
     }
     
